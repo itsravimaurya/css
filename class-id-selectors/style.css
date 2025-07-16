@@ -2,3 +2,5 @@ p.usingclassselector{background-color: rgb(241, 135, 153);font-family: verdana, 
 p.change-font-size{font-size: 24px;}
 #usingidselector{color: blue;font-size: 36px;}
 #usingidselectorunique{background-color: rgb(143, 248, 143); font-size: 24px; font-weight: bold;}
+
+/* Updated as the instruction using unique id and multiple classes. */
